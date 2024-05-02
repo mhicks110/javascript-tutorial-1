@@ -423,4 +423,3 @@ console.log(userOne, userTwo); // only stored once on the heap and pointing to t
 
 userOne.name = 'chun-li';
 console.log(userOne, userTwo);
-
